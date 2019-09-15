@@ -1,12 +1,15 @@
 {
-  "homepage": "https://marmmcin.github.io/Test123",
   "name": "test",
   "version": "0.1.0",
   "private": true,
+  "engines": {
+    "node": "10.16.0"
+  },
   "dependencies": {
     "express": "^4.17.1",
     "gh-pages": "^2.1.1",
     "hash-source": "^1.0.4",
+    "heroku": "^7.7.8",
     "react": "^16.9.0",
     "react-countup": "^4.2.2",
     "react-dom": "^16.9.0",
@@ -15,7 +18,7 @@
     "react-scripts": "3.1.1"
   },
   "scripts": {
-    "start": "react-scripts start",
+   "start": "node server.js",
     "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject",
