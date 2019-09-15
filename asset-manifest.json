@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/static/css/main.3e0436ac.chunk.css",
+    "main.js": "/static/js/main.33389813.chunk.js",
+    "main.js.map": "/static/js/main.33389813.chunk.js.map",
+    "runtime~main.js": "/static/js/runtime~main.5a9f0d54.js",
+    "runtime~main.js.map": "/static/js/runtime~main.5a9f0d54.js.map",
+    "static/js/2.dd097d01.chunk.js": "/static/js/2.dd097d01.chunk.js",
+    "static/js/2.dd097d01.chunk.js.map": "/static/js/2.dd097d01.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.fc4b576856260df0a52927eb0d81cf3e.js": "/precache-manifest.fc4b576856260df0a52927eb0d81cf3e.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.3e0436ac.chunk.css.map": "/static/css/main.3e0436ac.chunk.css.map",
+    "static/media/css3.svg": "/static/media/css3.3707da3c.svg",
+    "static/media/github.svg": "/static/media/github.0ff1a6f0.svg",
+    "static/media/html5.svg": "/static/media/html5.f0361c5e.svg",
+    "static/media/javascript.svg": "/static/media/javascript.61ed8b05.svg",
+    "static/media/nodejs.svg": "/static/media/nodejs.a1231528.svg",
+    "static/media/react.svg": "/static/media/react.4009eef3.svg",
+    "static/media/reactrouter.svg": "/static/media/reactrouter.02419671.svg",
+    "static/media/rzeszow.jpg": "/static/media/rzeszow.3f5ee2d2.jpg",
+    "static/media/sass.svg": "/static/media/sass.b446ca5a.svg"
+  }
+}
