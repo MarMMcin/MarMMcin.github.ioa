@@ -1,0 +1,25 @@
+.all {
+  max-width: 100vw;
+  max-height: 100vh;
+}
+div test {
+  font-size: 5vh;
+  padding-top: 5vh;
+}
+.photos {
+  margin-top: 3vw;
+  text-align: center;
+}
+.thumbs {
+  color: rgba(249, 212, 125, 1);
+}
+.rzefont {
+  font-size: 25px;
+}
+
+.inside {
+  z-index: 50;
+}
+.inside:hover {
+  opacity: 0.8;
+}
